@@ -6,7 +6,7 @@ This model takes a low resolution images and outputs a higher resolution image.
 
 ## Example
 ### Input images-
-<img src="/results/intput-LR-images.png" alt=""></img>
+<img src="/results/input-LR-images.png" alt=""></img>
 
 ### Output images-
-<img src="/results/intput-HR-images.png" alt=""></img>
+<img src="/results/output-HR-images.png" alt=""></img>
